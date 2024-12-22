@@ -4,7 +4,7 @@
 
 ### I'm CoHyu.
 
-- 🌱 A greener to CS.
+- 🌱 A greener to CS, And a CTFer with half year exp.
 - 💬 Discussion is important.
 - ⭐ A star, maybe.
 - ⚡ Just thumbing up...
